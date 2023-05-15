@@ -1,0 +1,22 @@
+let myAge = 32;
+let myYearOfBerth = 1990;
+let birthNumber = 15;
+let myBrothers = 0;
+let mySisters = 2;
+let myFamaly = 5;
+let mySumToTravel = 10;
+let thisYear = 2023;
+let exchangeDollar = 75;
+let exchangeEvro = 80;
+let exchangeBitcoin = 27000;
+
+let a = thisYear - myYearOfBerth;
+let b = thisYear - myAge;
+let c = myBrothers + mySisters;
+let d = exchangeEvro * 1000;
+let e = exchangeDollar * 2.5;
+let f = exchangeBitcoin / 10000;
+let g = mySumToTravel / exchangeDollar;
+let h = myFamaly - myBrothers - mySisters;
+let r = 0 / myAge;
+let s = 35 / myAge;
